@@ -1,0 +1,204 @@
+{
+    "participants": [
+        {
+            "id": "1",
+            "student_code": "GLNG-KS-08-01",
+            "student_name": "ALYSA ASTRY DJAYANTI",
+            "student_address": "Jakarta",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin mempelajari hal baru. Saya juga ingin update dengan perkembangan bahasa pemrograman. Jadi, saya berharap bisa mengikuti dan mempelajari serta kedepannya dapat mendalamai bahasa pemrograman Go."
+        },
+        {
+            "id": "2",
+            "student_code": "GLNG-KS-08-02",
+            "student_name": "HAFIDZURROHMAN SAIFULLAH",
+            "student_address": "Jakarta",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin mempelajari bahasa pemrograman baru dan karena Golang juga sering digunakan di dunia pekerjaan sehingga membuat saya tertarik untuk mempelajarinya."
+        },
+        {
+            "id": "3",
+            "student_code": "GLNG-KS-08-03",
+            "student_name": "ADINDA DESTIFANY ZENNIAR",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "4",
+            "student_code": "GLNG-KS-08-04",
+            "student_name": "DIMAS FAJRI PAMUNGKAS",
+            "student_address": "Sidoarjo",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Dikarenakan saya ingin memahami bahasa go untuk fokus saya kedepannya sebagai programmer"
+        },
+        {
+            "id": "5",
+            "student_code": "GLNG-KS-08-05",
+            "student_name": "Ahmad Arsy",
+            "student_address": "Palembang",
+            "student_occupation": "Fisikawan",
+            "joining_reason": "Agar diterima di Google sebagai Software Engineer"
+        },
+        {
+            "id": "6",
+            "student_code": "GLNG-KS-08-06",
+            "student_name": "ALIF WILDAN AZZAHRAN",
+            "student_address": "London",
+            "student_occupation": "Hitman",
+            "joining_reason": "ingin explore ilmu pemrograman yang belum saya terima di kampus untuk memperluas skillset saya"
+        },
+        {
+            "id": "7",
+            "student_code": "GLNG-KS-08-07",
+            "student_name": "SHALAISHA AMELIA PUTRI GEMINI",
+            "student_address": "Pluto",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin mempelajari bahasa pemrograman baru dan dapat menguasai beberapa bahasa pemrograman"
+        },
+        {
+            "id": "8",
+            "student_code": "GLNG-KS-08-08",
+            "student_name": "ILHAM DWIKI PUTRA RUMONDOR",
+            "student_address": "Wano",
+            "student_occupation": "Arkeolog",
+            "joining_reason": "Golang saat ini menjadi bahasa yang populer dan sedang naik daun sehingga permintaan developper golang meningkat. Saya mengikuti program ini agar dapat mempelajari bahasa golang untuk mengikuti permintaan developper golang yang banyak."
+        },
+        {
+            "id": "9",
+            "student_code": "GLNG-KS08-09",
+            "student_name": "VALDY RAMADHAN",
+            "student_address": "Dimensi Lain",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Ingin mengimplementasikan dan mengembangkan aplikasi Back-end dengan bahasa pemograman Golang"
+        },
+        {
+            "id": "10",
+            "student_code": "GLNG-KS08-010",
+            "student_name": "Oskar Maha Kasi",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "11",
+            "student_code": "GLNG-KS08-011",
+            "student_name": "ADEN HIDAYATULOH",
+            "student_address": "Semarang",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Ingin mempelajari hal baru terutama pada bidang backend"
+        },
+        {
+            "id": "12",
+            "student_code": "GLNG-KS08-012",
+            "student_name": "EKI ALFANI",
+            "student_address": "Lombok",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin menjadi Backend Engineer"
+        },
+        {
+            "id": "13",
+            "student_code": "GLNG-KS08-013",
+            "student_name": "AHMAD DZAKY HAFIDZ MUSTA'IN",
+            "student_address": "Kediri",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Menambah pengetahuan lebih banyak bahasa pemrograman"
+        },
+        {
+            "id": "14",
+            "student_code": "GLNG-KS08-014",
+            "student_name": "Ahmad Zaky Nadimsyah",
+            "student_address": "Jalan Rajawali 10, Palembang",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin belajar banyak bahasa pemrograman yang mengarah ke Back-End Development, dan salah satunya adalah Golang"
+        },
+        {
+            "id": "15",
+            "student_code": "GLNG-KS08-015",
+            "student_name": "FABIANUS JERICHO HARAPAN JAYA SIPAYUNG",
+            "student_address": "Semarang",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Karena bahasa golang sering dipakai untuk sekarang khususnya dalam Backend"
+        },
+        {
+            "id": "16",
+            "student_code": "GLNG-KS08-016",
+            "student_name": "TIMOTIUS WINSEN BASTIAN",
+            "student_address": "Semarang",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Ingin memperdalam Back-End terutama dengan bahasa pemrograman Golang"
+        },
+        {
+            "id": "17",
+            "student_code": "GLNG-KS08-017",
+            "student_name": "Bagus Maulidan Purnama",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "18",
+            "student_code": "GLNG-KS08-018",
+            "student_name": "SHERLY FAUZIYAH SYAHARANI",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "19",
+            "student_code": "GLNG-KS08-019",
+            "student_name": "GIAN PRADIPTA GUNAWAN",
+            "student_address": "Solo",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "karena go sering dipakai untuk backend sekarang"
+        },
+        {
+            "id": "20",
+            "student_code": "GLNG-KS08-020",
+            "student_name": "JENGHIZKHAN",
+            "student_address": "Bogor",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": ""
+        },
+        {
+            "id": "21",
+            "student_code": "GLNG-KS08-021",
+            "student_name": "Muhammad Yazid Baihaqi",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "22",
+            "student_code": "GLNG-KS08-022",
+            "student_name": "Raditya Rifan Zaidan",
+            "student_address": "Depok",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Karena saya ingin mendalami materi terkait Backend"
+        },
+        {
+            "id": "23",
+            "student_code": "GLNG-KS08-023",
+            "student_name": "BAGAS SUMANTRI",
+            "student_address": "Jakarta",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Ingin mencoba hal yang baru "
+        },
+        {
+            "id": "24",
+            "student_code": "GLNG-KS08-024",
+            "student_name": "BOBBY PRATAMA",
+            "student_address": "",
+            "student_occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "25",
+            "student_code": "GLNG-KS08-025",
+            "student_name": "MUHAMMAD SYABDEWA",
+            "student_address": "Papua",
+            "student_occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin dapat memahami bahasa Go karna bahasa pemrograma Go banyak digunakan untuk Back-End"
+        }
+    ]
+}
